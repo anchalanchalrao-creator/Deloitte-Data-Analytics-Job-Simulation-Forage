@@ -48,7 +48,7 @@ Completed the **Deloitte Australia Data Analytics Job Simulation** through **For
 
 ## 🔗 Profile
 
-[Connect with me on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7509523293411139584/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/anchal-rao-99aa27285/details/certifications/)
 
 ---
 
