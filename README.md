@@ -31,7 +31,7 @@ Analyzed **factory downtime by device type** to identify patterns in operational
 
 ## 📊 Dashboard
 
-[![Deloitte Dashboard](images/Deloitte_analysis_Dashboard.png)](/Deloitte_analysis_Dashboard.png)
+[![Deloitte Dashboard](/Deloitte_analysis_Dashboard.png)
 
 ## 🎓 Learning Outcomes
 
