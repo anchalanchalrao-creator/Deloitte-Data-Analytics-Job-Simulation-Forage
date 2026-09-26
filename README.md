@@ -48,7 +48,7 @@ Completed the **Deloitte Australia Data Analytics Job Simulation** through **For
 
 ## 🔗 Profile
 
-[Connect with me on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7502317280480083968/)
+[Connect with me on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7509523293411139584/)
 
 ---
 
