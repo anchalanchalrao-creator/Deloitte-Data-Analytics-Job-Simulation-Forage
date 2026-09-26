@@ -27,7 +27,7 @@ Worked with datasets to identify patterns, analyze business information, and com
 
 Analyzed **factory downtime by device type** to identify patterns in operational downtime.
 
-![Data Analysis Dashboard](images/deloitte-analysis.png)
+![Data Analysis Dashboard](Deloitte_analysis_Dashboard.png)
 
 ## 🎓 Learning Outcomes
 
